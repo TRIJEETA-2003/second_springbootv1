@@ -10,6 +10,7 @@ public class SecondSpringbootv1Application {
 		SpringApplication.run(SecondSpringbootv1Application.class, args);
 		System.out.println("Spring boot app started...");
 		System.out.println("BookService is up...");
+		System.out.println("Spring boot app started...");
 	}
 
 }
